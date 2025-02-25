@@ -1,0 +1,23 @@
+*{
+    -fx-font-size: 16;
+
+}
+.titulo{
+    -fx-font-size: 24;
+    -fx-font-weight: bold;
+    -fx-fill: #215691;
+}
+.btn-rojo{
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
+.btn-azul{
+    -fx-background-color: #215691;
+    -fx-text-fill: white;
+}
+#lvArtistas{
+    -fx-border-color: #215691;
+    -fx-border-width: 2;
+    -fx-fill: #215691;
+}
+
